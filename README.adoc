@@ -1,6 +1,6 @@
 = Median orders
 
-The autor of the files posted here is Alain Génoche. I publish them on this website with his autorization (given by e-mail on the 23rd of May, 2017).
+The autor of the files posted here is Alain Guénoche. I publish them on this website with his autorization (given by e-mail on the 23rd of May, 2017).
 
 The program Kemeny.c, given a tournament, builds a few approximate median orders and tries to build an optimal one.
 
